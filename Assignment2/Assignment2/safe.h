@@ -1,5 +1,5 @@
 //
-// Created by Haim Adrian
+// Created by Haim Adrian and Yakir Saadia
 //
 
 #ifndef UTILS_SAFESCANF_H

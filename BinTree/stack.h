@@ -1,5 +1,5 @@
 //
-// Created by Haim Adrian on 25-Aug-19.
+// Created by Haim Adrian and Yakir Saadia on 25-Aug-19.
 //
 
 #ifndef UTILS_STACK_H
